@@ -2,8 +2,14 @@
 **SJSU Capstone Project**
 https://github.com/billsasi/eatup
 
+Restaurant recommendations for every group chat, using Yelp data.
+
+<img width="682" alt="image" src="https://github.com/billsasi/eatup/assets/34401972/dce050d2-3b40-4af7-9d17-46e1dda9d642">
+<img width="516" alt="image" src="https://github.com/billsasi/eatup/assets/34401972/d50be003-242f-416e-a354-5e8d0fb51a87">
+
 ## Setup
 Clone this repository.
+
 
 ***
 
